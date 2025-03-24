@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Ronaldo!  
 
-<!--
-**RonaldoFerreiraMacedo/RonaldoFerreiraMacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Apaixonado por tecnologia.  
+🤖 Explorando Inteligência Artificial, Ciência de Dados & Machine Learning.  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que uso  
+- 🔹 Python, IA & Machine Learning  
+- 🔹 Ciência de Dados & Automação  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌎 Onde me encontrar
+- 💼 LinkedIn: [Ronaldo Macedo](https://www.linkedin.com/in/macedoronaldo/)
+- 📊 E-mail: macedo41701@gmail.com
+
+✨ *Seja bem-vindo ao meu perfil!* 🚀
